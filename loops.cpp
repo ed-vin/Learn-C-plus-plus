@@ -16,8 +16,16 @@ int main() {
     std::string name = "Alice"; // A string variable (requires including <string>)
 
     //basic for loop example
-    for (int i = age; i < 26; i++) {
+    // always start at 0
+    // i is for index and can be any name
+    for (int i = 0; i < 5; i++) {
         // This is a simple for loop that iterates 5 times
         std::cout << "Iteration: " << i << std::endl; // Print the current iteration number
+    }
+
+    //use a varible in a for loop
+    for (int i = 0; i < age; i++) {
+        // This loop will iterate 'age' times (25 times in this case)
+        std::cout << "Age iteration: " << i << std::endl; // Print the current iteration number
     }
 }
