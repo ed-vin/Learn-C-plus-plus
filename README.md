@@ -32,7 +32,7 @@ This learning path is divided into 4 steps. Each step builds on the last, progre
 ### ✅ Step 1: The Basics
 > **Goal:** Learn basic syntax, data types, I/O, and control flow.
 
-- [X] Learn what C++ is and how it works. 
+- [X] Learn the basic what C++ is and how it works. `Compiler`, `Machine code`, `Pointers`, `Memory Management` etc.
 - [X] Understand `main()`, `#include`, `std::cout`, `std::cin`
 - [X] Learn primitive types: `int`, `float`, `double`, `char`, `bool`, `std::string`
 - [X] Practice control flow: `if`, `else`, `else if`, `Switch`,  logical operators (`&&`, `||`, `!`)
