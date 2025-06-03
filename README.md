@@ -26,14 +26,15 @@ My learning path is divided into 4 steps. Each step builds on the last, progress
 
 ## Step 0: Setup for C++ Development
 #### IDE: Visual studio, VS Code, Clion, Xcode, etc.
-#### Compiler: g++, etc.
+#### Compiler: g++, MSVC, Clang etc.
 
 ### ✅ Step 1: The Basics
 > **Goal:** Learn basic syntax, data types, I/O, and control flow.
 
 - [X] Learn the basics what C++ is and how it works. `Compiler`, `Machine code`, `Pointers`, `Memory Management` etc.
 - [X] Understand `main()`, `#include`, `namespaces`, `std::cout`, `std::cin`
-- [X] Learn primitive types: `int`, `float`, `double`, `char`, `bool`, `std::string`
+- [X] Learn data types: `int`, `float`, `double`, `char`, `bool`, `std::string`
+- [X] Set variables to the data types: int `variable-name` = 1; etc.
 - [X] Practice control flow: `if`, `else`, `else if`, `Switch`,  logical operators (`&&`, `||`, `!`)
 - [ ] Learn loops: `for`, `while`, `do-while`
 - [ ] Write simple functions and understand parameters/returns
