@@ -2,7 +2,7 @@
 
 This is my personal C++ learning journey. The repository is dedicated to learning the C++ programming language from the ground up — one step at a time.
 
-I created this project for myself as a hands-on way to really *learn by doing*. Instead of passively watching tutorials, I found it much more effective to actively write code, document my understanding, and build small projects. I hope it could be useful for somebody else trying to navigate in the C++ jungle.
+I created this project for myself as a hands-on way to really *learn by doing*. Instead of passively watching tutorials, I found it much more effective to actively write code, document my understanding, and build small projects. Maybe it could be useful for somebody else trying to navigate in the C++ jungle.
 
 ---
 
@@ -32,10 +32,10 @@ This learning path is divided into 4 steps. Each step builds on the last, progre
 ### ✅ Step 1: The Basics
 > **Goal:** Learn basic syntax, data types, I/O, and control flow.
 
-- [ ] Learn what C++ is by google or ask Ai to get a idea how it works. (important)
-- [ ] Understand `main()`, `#include`, `std::cout`, `std::cin`
-- [ ] Learn primitive types: `int`, `float`, `double`, `char`, `bool`, `std::string`
-- [ ] Practice control flow: `if`, `else`, `else if`, `Switch`,  logical operators (`&&`, `||`, `!`)
+- [X] Learn what C++ is and how it works. 
+- [X] Understand `main()`, `#include`, `std::cout`, `std::cin`
+- [X] Learn primitive types: `int`, `float`, `double`, `char`, `bool`, `std::string`
+- [X] Practice control flow: `if`, `else`, `else if`, `Switch`,  logical operators (`&&`, `||`, `!`)
 - [ ] Learn loops: `for`, `while`, `do-while`
 - [ ] Write simple functions and understand parameters/returns
 - [ ] Practice writing clean, well-commented code
