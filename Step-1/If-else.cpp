@@ -34,7 +34,8 @@ int main() {
         std::cout << "You are an adult." << std::endl; // message if variable age >= 18
     }
 
-    // Using multiple varibles in a conditional statement
+    // Using multiple varibles in a conditional statement with logical operators 
+    // && = And. || = Or.
     // This example checks if the height is greater than 1.5 and (&&) weight is less than 80
     if (height > 1.5 && weight < 80) {
         std::cout << "You are tall and light." << std::endl; // message if height > 1.5 and weight < 80
