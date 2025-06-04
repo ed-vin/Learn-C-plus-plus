@@ -14,11 +14,11 @@ My learning path is divided into 4 steps. Each step builds on the last, progress
 
 # Roadmap
 
-## Step 0: Setup for C++ Development
+## Setup for C++ Development
 #### IDE: Visual studio, VS Code, Clion, Xcode, etc.
-#### Compiler: g++, MSVC, Clang etc.
+#### Compiler: g++, MSVC, Clang, etc.
 
-### ✅ Step 1: The Basics
+###  Step 1: The Basics
 > **Goal:** Learn basic syntax, data types, variables, decision making & Loops.
 
 - [X] Learn the basics what C++ is and how it works. `Compiler`, `Machine code`, `Pointers`, `Memory Management` etc.
@@ -32,7 +32,7 @@ My learning path is divided into 4 steps. Each step builds on the last, progress
 
 ---
 
-### ✅ Step 2: Object-Oriented Programming (OOP)
+###  Step 2: Object-Oriented Programming (OOP)
 > **Goal:** Learn how to structure code using classes and objects.
 
 - [ ] Define custom classes with attributes and methods
@@ -44,7 +44,7 @@ My learning path is divided into 4 steps. Each step builds on the last, progress
 
 ---
 
-### ✅ Step 3: Intermediate Concepts
+###  Step 3: Intermediate Concepts
 > **Goal:** Deepen understanding of memory and C++ mechanics.
 
 - [ ] Master pointers (`*`, `&`) and dynamic memory allocation (`new`, `delete`)
@@ -56,7 +56,7 @@ My learning path is divided into 4 steps. Each step builds on the last, progress
 
 ---
 
-### ✅ Step 4: Modern C++ and Real-World Structure
+###  Step 4: Modern C++ and Real-World Structure
 > **Goal:** Use modern language features and write scalable code.
 
 - [ ] Use modern syntax: `auto`, range-based `for`, `nullptr`, `using`
