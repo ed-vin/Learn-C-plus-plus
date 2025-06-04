@@ -6,16 +6,6 @@ I created this project for myself as a hands-on way to really learn by doing. In
 
 ---
 
-## Learning Tips
-
-- Use AI as a learning companion — ask questions, get code reviewed, explore ideas — **don't use it to write code** (especially as a beginner).
-- Learn all the basics really good before start with something advanced or a framework.
-- Don't copy and paste — write code from scratch to fully understand how it works.
-- Try to explain what you're learning in your own words.
-- Create a repo or a document to track your progress.
-
----
-
 ## Project Structure
 
 My learning path is divided into 4 steps. Each step builds on the last, progressing from basic syntax to more complex topics and modern C++ practices.
@@ -35,7 +25,7 @@ My learning path is divided into 4 steps. Each step builds on the last, progress
 - [X] Understand basic C++ syntax `main()`, `#include`, `namespaces`, `std::cout`, `std::cin`
 - [X] Learn data types: `int`, `float`, `double`, `char`, `bool`, `std::string`
 - [X] Set variables to the data types: int `variable` = 1; etc.
-- [X] Practice control flow: `if`, `else`, `else if`, `Switch`,  logical operators (`&&`, `||`, `!`)
+- [X] Practice decision making: `if`, `else`, `else if`, `Switch`,  logical operators (`&&`, `||`, `!`)
 - [X] Learn loops: `for`, `while`, `do-while`
 - [ ] Create small console programs to use decision making & loops.
 - [ ] Create a mini project combining everything I have learned in step 1.
@@ -77,24 +67,34 @@ My learning path is divided into 4 steps. Each step builds on the last, progress
 
 ---
 
-## 📚 Recommended Resources
+## Learning Tips
 
-- 📘 [w3schools.com C++ Tutorial](https://www.w3schools.com/cpp/default.asp)
-- 📖 *Programming: Principles and Practice Using C++* by Bjarne Stroustrup
-- 💡 LearnCpp: [https://learncpp.com](https://learncpp.com)
-- 👥 Isocpp: [https://isocpp.org/get-started]
+- Use AI as a learning companion — ask questions, get code reviewed, explore ideas — **don't use it to write code** (especially as a beginner).
+- Learn all the basics really good before start with something advanced or a framework.
+- Don't copy and paste — write code from scratch to fully understand how it works.
+- Try to explain what you're learning in your own words.
+- Create a repo or a document to track your progress.
 
 ---
 
-## 💡 Mini Projects to Practice
+## 📚 Recommended Resources
+
+-  [w3schools.com C++ Tutorial](https://www.w3schools.com/cpp/default.asp)
+-  *Programming: Principles and Practice Using C++* by Bjarne Stroustrup
+-  LearnCpp: [https://learncpp.com](https://learncpp.com)
+-  Isocpp: https://isocpp.org/get-started
+
+---
+
+##  Mini Projects to Practice
 
 Try building small projects to reinforce what you’ve learned:
 
-- 🧮 Console calculator
-- 📝 To-do list using arrays or vectors
-- 🔢 Number guessing game
-- 📂 File read/write program
-- 👥 Class-based student or contact management system
+-  Console calculator
+-  To-do list using arrays or vectors
+-  Number guessing game
+-  File read/write program
+-  Class-based student or contact management system
 
 ---
 
