@@ -27,8 +27,8 @@ My learning path is divided into 4 steps. Each step builds on the last, progress
 - [X] Set variables to the data types: int `variable` = 1; etc.
 - [X] Practice decision making: `if`, `else`, `else if`, `Switch`,  logical operators (`&&`, `||`, `!`)
 - [X] Learn loops: `for`, `while`, `do-while`
-- [ ] Create small console programs to use decision making & loops.
-- [ ] Create a mini project combining everything I have learned in step 1.
+- [X] Create small console programs to use decision making & loops.
+- [X] Create a mini project combining everything I have learned in step 1.
 
 ---
 
