@@ -30,29 +30,29 @@ int main() {
     // std::cout << "you wrote: " << name << std::endl; // Print the value of "name" to the console
 
     // basic for-loop example
-    // 'i' is for index/itteration and can be any name.
-    // set the 'i' value to 0 and it iterates 5 times
-    // set the 'i' value to -10 and it will it iterate 15 times for example
-    // for (int i = 0; i < 5; i++) {
-    //     // This is a simple for loop that iterates 5 times
-    //     std::cout << "Iteration: " << i << std::endl; // Print the current iteration number
-    // }
+    //'i' is for index/itteration and can be any name.
+    //set the 'i' value to 0 and it iterates 5 times
+    //set the 'i' value to -10 and it will it iterate 15 times for example
+    for (int i = 0; i < 5; i++) {
+        // This is a simple for loop that iterates 5 times
+        std::cout << "Iteration: " << i << std::endl; // Print the current iteration number
+    }
 
-    // Use for-loops with variables
+    //Use for-loops with variables
 
-    // Using the int varible 'number' to loop it as many times as the number is set to
-    // for (int i = 0; i <= number; i++) {
-    //     std::cout << i << std::endl;
-    // }
+    //Using the int varible 'number' to loop it as many times as the number is set to
+    for (int i = 0; i <= number; i++) {
+        std::cout << i << std::endl;
+    }
 
     // Basic while-loop example
     // you need to set the variable value before in while-loop, but not in a for-loop.
     // here is the same variable (int number) as used before
     // it will count up to 5 based on the number you write in console
-    // while (number <= 5) {
-    //     std::cout << number << std::endl;
-    //     number++;
-    // }
+    while (number <= 5) {
+        std::cout << number << std::endl;
+        number++;
+    }
 
     // Basic do while-loop
     // check do before while at least 1 time
