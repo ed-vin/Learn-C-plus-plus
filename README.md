@@ -2,8 +2,6 @@
 
 This is my personal C++ learning journey. The repository is dedicated to learning the C++ programming language from the ground up.
 
-I created this project for myself as a hands-on way to really learn by doing. Instead of passively watching tutorials, I found it much more effective to actively write code, document my understanding, and build small projects. Maybe it could be useful for somebody else trying to navigate in the C++ jungle.
-
 ---
 
 ## Project Structure
